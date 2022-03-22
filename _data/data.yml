@@ -33,7 +33,9 @@ sidebar:
         level: Native
 
     interests:
-      - item: Snowboarding
+      - item: Hiking
+        link:
+      - item: Reading
         link:
 
 career-profile:
